@@ -26,9 +26,14 @@ This project follows **Test-Driven Development (TDD)** principles and includes u
 
 ---
 
-📌 Technologies Used
 
-Language: Python 3
-Testing: Pytest
-Design Approach: TDD (Test-Driven Development)
-Interface: CLI (Command-Line Interface)
+---
+
+## ▶️ How to Run
+
+### 1. Clone the Repository / Download ZIP
+
+```bash
+git clone https://github.com/your-username/sweet_shop_project.git
+cd sweet_shop_project
+
