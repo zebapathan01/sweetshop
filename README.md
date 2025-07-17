@@ -59,9 +59,12 @@ python main.py
 0. Exit
 Enter your choice:
 
-🧪 How to Run Unit Tests
+---
+### 🧪 How to Run Unit Tests
 Ensure you're in the project directory and run:
+```bash
 pytest
+```
 
 Make sure pytest is installed using:
 pip install pytest
