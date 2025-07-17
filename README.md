@@ -16,7 +16,12 @@ This project follows **Test-Driven Development (TDD)** principles and includes u
 - 🖥️ Clean and interactive terminal menu interface
 
 ---
+### Technologies Used
+Python 3.10+
+pytest (installed via requirements.txt)
+VS Code
 
+---
 ## ▶️ How to Run the Application
 
 ### 1. Clone the Repo or Download ZIP
