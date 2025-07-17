@@ -29,3 +29,15 @@ This installs pytest (used for testing).
 
 ### 3. Run the CLI Program
 python main.py
+
+## You’ll see an interactive menu like:
+
+======= Sweet Shop Menu =======
+1. Add Sweet
+2. View Sweets
+3. Delete Sweet
+4. Purchase Sweet
+5. Restock Sweet
+6. Search Sweet
+7. Sort Sweets
+0. Exit
