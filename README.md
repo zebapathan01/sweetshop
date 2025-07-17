@@ -22,22 +22,32 @@ This project follows **Test-Driven Development (TDD)** principles and includes u
 - VS Code
 
 ---
-## ▶️ How to Run the Application
 
-### 1. Clone the Repo or Download ZIP
-git clone https://github.com/your-username/sweet-shop.git
-cd sweet-shop
+## 📁 Files Included
 
-### 2. Install Dependencies
-pip install -r requirements.txt                                                                                                          
-This installs pytest (used for testing).
+| File              | Description                                |
+|-------------------|--------------------------------------------|
+| `sweet_shop.py`   | Main logic with all class-based operations |
+| `main.py`         | CLI interface to interact with the shop    |
+| `test_sweet_shop.py` | Unit tests using `pytest`               |
+| `requirements.txt`| Dependencies for this project              |
+| `README.md`       | Project documentation                      |
 
-### 3. Run the CLI Program
+---
+
+## 🛠️ How to Run the Program
+
+### ▶️ Open VS Code Terminal
+
+Ensure you're in the folder where `main.py` exists.
+
+Then run the following command in your terminal:
+
+```bash
 python main.py
 
-## You’ll see an interactive menu like:
-
-======= Sweet Shop Menu =======
+📋 You'll see a CLI menu like this:
+======= Sweet Shop Management System =======
 1. Add Sweet
 2. View Sweets
 3. Delete Sweet
@@ -46,8 +56,19 @@ python main.py
 6. Search Sweet
 7. Sort Sweets
 0. Exit
+Enter your choice:
 
-## 🧪 Run Tests
-To verify functionality using TDD tests:
+🧪 How to Run Unit Tests
+Ensure you're in the project directory and run:
 pytest
 
+Make sure pytest is installed using:
+pip install pytest
+
+✅ Expected Output (for Tests)
+=================== test session starts ===================
+platform win32 -- Python 3.x.x, pytest-x.x.x
+collected 10 items
+
+test_sweet_shop.py ..........
+==================== 10 passed in 0.03s ====================
