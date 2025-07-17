@@ -17,9 +17,9 @@ This project follows **Test-Driven Development (TDD)** principles and includes u
 
 ---
 ### Technologies Used
-Python 3.10+
-pytest (installed via requirements.txt)
-VS Code
+- Python 3.10+
+- pytest (installed via requirements.txt)
+- VS Code
 
 ---
 ## ▶️ How to Run the Application
