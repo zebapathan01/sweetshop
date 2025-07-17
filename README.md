@@ -41,3 +41,8 @@ python main.py
 6. Search Sweet
 7. Sort Sweets
 0. Exit
+
+## 🧪 Run Tests
+To verify functionality using TDD tests:
+pytest
+This runs all unit tests in test_sweet_shop.py.
