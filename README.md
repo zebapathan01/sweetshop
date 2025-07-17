@@ -45,4 +45,4 @@ python main.py
 ## 🧪 Run Tests
 To verify functionality using TDD tests:
 pytest
-This runs all unit tests in test_sweet_shop.py.
+
