@@ -67,12 +67,16 @@ pytest
 ```
 
 Make sure pytest is installed using:
+```bash
 pip install pytest
+```
 
 ✅ Expected Output (for Tests)
+```bash
 =================== test session starts ===================
 platform win32 -- Python 3.x.x, pytest-x.x.x
 collected 10 items
 
 test_sweet_shop.py ..........
 ==================== 10 passed in 0.03s ====================
+```
