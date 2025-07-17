@@ -45,6 +45,7 @@ Then run the following command in your terminal:
 
 ```bash
 python main.py
+```
 
 📋 You'll see a CLI menu like this:
 ======= Sweet Shop Management System =======
