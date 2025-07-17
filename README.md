@@ -25,15 +25,3 @@ This project follows **Test-Driven Development (TDD)** principles and includes u
 - ✅ Clean CLI interface for easy use
 
 ---
-
-
----
-
-## ▶️ How to Run
-
-### 1. Clone the Repository / Download ZIP
-
-```bash
-git clone https://github.com/your-username/sweet_shop_project.git
-cd sweet_shop_project
-
