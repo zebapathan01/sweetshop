@@ -26,11 +26,9 @@ This project follows **Test-Driven Development (TDD)** principles and includes u
 
 ---
 
-## 📁 Project Structure
+📌 Technologies Used
 
-sweet_shop_project/
-├── sweet_shop.py # Business logic (SweetShop class)
-├── main.py # CLI interface (console menu)
-├── test_sweet_shop.py # Unit tests (TDD using pytest)
-├── requirements.txt # Project dependencies
-└── README.md # Project overview (this file)
+Language: Python 3
+Testing: Pytest
+Design Approach: TDD (Test-Driven Development)
+Interface: CLI (Command-Line Interface)
