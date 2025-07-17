@@ -48,6 +48,7 @@ python main.py
 ```
 
 📋 You'll see a CLI menu like this:
+```
 ======= Sweet Shop Management System =======
 1. Add Sweet
 2. View Sweets
@@ -58,7 +59,7 @@ python main.py
 7. Sort Sweets
 0. Exit
 Enter your choice:
-
+```
 ---
 ### 🧪 How to Run Unit Tests
 Ensure you're in the project directory and run:
