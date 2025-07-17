@@ -23,9 +23,9 @@ This project follows **Test-Driven Development (TDD)** principles and includes u
 git clone https://github.com/your-username/sweet-shop.git
 cd sweet-shop
 
-2. Install Dependencies
-pip install -r requirements.txt
+### 2. Install Dependencies
+pip install -r requirements.txt                                                                                                          
 This installs pytest (used for testing).
 
-3. Run the CLI Program
+### 3. Run the CLI Program
 python main.py
